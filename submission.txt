@@ -1,0 +1,46 @@
+Project #8 - Submission form
+
+Please fill in this form and submit it with your project #8.
+
+Enter no more than 5 user stories that you did for the assignment that you would like to be
+graded on. For each story include the following information:
+
+********************************
+Story number and name: 4 - Activity Feed
+Story points: 4
+Brief description to see the story in action:
+
+By clicking on the RSSFeed icon in the top right corner, the user will be able to navigate to a new page called "Activities 
+Feed". This page shows the 10 most recent activities on this web app, including user logins/logouts, new likes, new comments,
+new photos, as well as new users. For each activity, the user name links to the user details page, and the photo icon links 
+to the user's photo page (a specific photo in photo stepper view if advanced feature is enabled).
+
+********************************
+Story number and name: 5 - Deleting Comments, Photos, and Users
+Story points: 4
+Brief description to see the story in action:
+
+For each comment and photo that the user posted, he/she will be able to delete the comment/photo by clicking on the delete
+icon to the right of the comment or in the right bottom corner of the photo. He/she will not be able to delete comments/photos
+that he/she did not post. By clicking on the menu icon in the top right corner and going to the "Settings" page, a user can
+delete his/her account entirely. This action erases all comments, photos, as well as activity records.
+
+********************************
+Story number and name: 6 - Photo Like Votes
+Story points: 4
+Brief description to see the story in action:
+
+Under each photo, there is a heart icon, followed by the number of likes the the photo has received. If a user clicks the icon,
+the heart icon will change to a filled-in heart icon, and the number of likes will increase by one. If a user clicks the 
+filled-in heart icon, the filled-in heart icon will change back to the original icon, and the number of likes will decrease
+by one. Unliking the photo will also remove the corresponding record in the activities feed. The user should not be able to 
+unlike a photo he/she has not liked, or like a photo he/she has already liked.
+
+********************************
+Total Story Points:
+
+Marketing Video URL (ensure permissions are set to public viewing): https://youtu.be/vRcngWJdTPY
+
+Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+
+Any special instructions for Grading (should be easy to run app from new machine): None

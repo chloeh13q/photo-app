@@ -1,0 +1,10 @@
+.cs142-topbar-appBar {
+  height: 95px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cs142-topbar-toolbar {
+  justify-content: space-between;
+}
